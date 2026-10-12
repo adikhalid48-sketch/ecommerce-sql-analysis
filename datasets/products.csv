@@ -1,0 +1,16 @@
+ProductID,ProductName,CategoryID,Price,Stock
+1,iPhone 15,1,90000,50
+2,Samsung Galaxy S25,1,80000,60
+3,Laptop Dell XPS,1,75000,30
+4,HP Pavilion Laptop,1,65000,40
+5,T-shirt Blue,2,500,200
+6,Jeans Black,2,1200,150
+7,Jacket Leather,2,3500,100
+8,Blender Mixer,3,2500,80
+9,Microwave Oven,3,5000,60
+10,Vacuum Cleaner,3,7000,50
+11,Football Adidas,4,1200,100
+12,Tennis Racket,4,3000,70
+13,Yoga Mat,4,800,120
+14,Harry Potter Book,5,600,200
+15,Data Science Book,5,1200,100
